@@ -1,15 +1,13 @@
 # Hola, my name is Arnau 👋
 ### And Im an student from<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>
 
-[Uploading image.png…](https://github.com/ArnauCortes-2A/ArnauCortes-2A/blob/main/cartel_01.png?raw=true)
+![Uploading image.png…](https://github.com/ArnauCortes-2A/ArnauCortes-2A/blob/main/cartel_01.png?raw=true)
 
-[![Twitch Status](https://img.shields.io/twitch/status/Koocachookies?style=social)](https://twitch.com/koocachookies)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Koocachookies?style=social)](https://twitter.com/koocachookies)
 ![GitHub Followers](https://img.shields.io/github/followers/danigomezcev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/danigomezcev?style=social)
-[![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com)
+![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com)
 
-## Here are some of the softwares that I teach:
+## These are some of the software I have worked with::
 
 [![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
 <br>
