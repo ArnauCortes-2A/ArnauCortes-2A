@@ -68,7 +68,7 @@
     <tr>
     <td>
 	<a href="https://www.devourgame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/devour.png">
+  		<img src="https://images8.alphacoders.com/129/1291906.png">
 	</a>
 	</td>
 	<td>
