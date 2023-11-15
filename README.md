@@ -43,24 +43,24 @@
   <tr>
   <td>
 	<a href="https://www.leagueoflegends.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/leagueoflegends.png">
+  		<img src="https://wallpapercave.com/dwp1x/wp5478788.jpg">
 	</a>
 	</td>
   <td>
 	<a href="https://www.labyrinthinegame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/labyrinthine.png">
+  		<img src="https://wallpapercave.com/dwp1x/wp12995304.jpg">
 	</a>
 	</td>
   </tr>
   <tr>
   <td>
 	<a href="https://pokemonmasters-game.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/pokemonmasters.png">
+  		<img src="https://wallpapercave.com/dwp1x/wp10754978.jpg">
 	</a>
 	</td>
 	<td>
 	<a href="https://disneymirrorverse.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
+  		<img src="https://wallpapercave.com/dwp1x/wp11812000.jpg">
 	</a>
 	</td>
 	</td>
@@ -68,12 +68,12 @@
     <tr>
     <td>
 	<a href="https://www.devourgame.com/">
-  		<img src="https://images8.alphacoders.com/129/1291906.png">
+  		<img src="https://wallpapercave.com/dwp1x/wp11251550.jpg">
 	</a>
 	</td>
 	<td>
 	<a href="https://kineticgames.co.uk/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png">
+  		<img src="https://wallpapercave.com/dwp1x/wp4016817.png">
 	</a>
   </tr>
 </table>
