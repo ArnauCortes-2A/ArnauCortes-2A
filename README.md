@@ -3,10 +3,9 @@
 
 ![Uploading image.png…](https://github.com/ArnauCortes-2A/ArnauCortes-2A/blob/main/cartel_01.png?raw=true)
 
-![GitHub Followers](https://img.shields.io/github/followers/danigomezcev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/danigomezcev?style=social)
-![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)
-
+![GitHub Followers](https://img.shields.io/github/followers/ArnauCortes-2A?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/ArnauCortes-2A?style=social)
+[![](https://img.shields.io/badge/Artstation-FFFFFF?style=social&logo=artstation&logoColor=006CFF)](https://www.artstation.com/arni_99)
 ## These are some of the software I have worked with::
 
 [![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
