@@ -9,18 +9,13 @@
 ## These are some of the software I have worked with::
 
 [![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
-<br>
 [![Unity](https://img.shields.io/badge/Unity-999999?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)]()
-<br>
 [![Java](https://img.shields.io/badge/Java-999999?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)]()
+[![OBS](https://img.shields.io/badge/OBS-999999?style=for-the-badge&logo=obsstudio&logoColor=white&labelColor=101010)]()
 <br>
 [![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-7F7AC9?style=for-the-badge&logo=adobePhotoshop&logoColor=white&labelColor=262076)]()
-<br>
 [![Audition](https://img.shields.io/badge/Adobe_Audition-7F7AC9?style=for-the-badge&logo=adobeaudition&logoColor=white&labelColor=262076)]()
-<br>
 [![Premiere](https://img.shields.io/badge/Adobe_Premiere-7F7AC9?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=262076)]()
-<br>
-[![OBS](https://img.shields.io/badge/OBS-999999?style=for-the-badge&logo=obsstudio&logoColor=white&labelColor=101010)]()
 <br>
 [![Github](https://img.shields.io/badge/Github_Desktop-EA84E8?style=for-the-badge&logo=github&logoColor=white&labelColor=871585)]()
 <br>
